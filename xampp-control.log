@@ -1,0 +1,58 @@
+11:41:00  [main] 	Initializing Control Panel
+11:41:00  [main] 	Windows Version:  Enterprise  64-bit
+11:41:00  [main] 	XAMPP Version: 7.4.29
+11:41:00  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+11:41:00  [main] 	You are not running with administrator rights! This will work for
+11:41:00  [main] 	most application stuff but whenever you do something with services
+11:41:00  [main] 	there will be a security dialogue or things will break! So think 
+11:41:00  [main] 	about running this application with administrator rights!
+11:41:00  [main] 	XAMPP Installation Directory: "c:\users\kartik\desktop\blog project\"
+11:41:00  [main] 	WARNING: Your install directory contains spaces.  This may break programs/scripts
+11:41:00  [main] 	Checking for prerequisites
+11:41:00  [main] 	All prerequisites found
+11:41:00  [main] 	Initializing Modules
+11:41:00  [main] 	Starting Check-Timer
+11:41:00  [main] 	Control Panel Ready
+11:41:02  [Apache] 	Attempting to start Apache app...
+11:41:02  [Apache] 	Status change detected: running
+11:41:03  [mysql] 	Attempting to start MySQL app...
+11:41:03  [mysql] 	Status change detected: running
+11:44:32  [Apache] 	Attempting to stop Apache (PID: 9316)
+11:44:32  [Apache] 	Attempting to stop Apache (PID: 12244)
+11:44:33  [Apache] 	Status change detected: stopped
+11:44:33  [mysql] 	Attempting to stop MySQL app...
+11:44:33  [mysql] 	Status change detected: stopped
+12:14:40  [main] 	Deinitializing Modules
+12:14:40  [main] 	Deinitializing Control Panel
+
+11:29:45  [main] 	Initializing Control Panel
+11:29:45  [main] 	Windows Version:  Enterprise  64-bit
+11:29:45  [main] 	XAMPP Version: 7.4.29
+11:29:45  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+11:29:45  [main] 	You are not running with administrator rights! This will work for
+11:29:45  [main] 	most application stuff but whenever you do something with services
+11:29:45  [main] 	there will be a security dialogue or things will break! So think 
+11:29:45  [main] 	about running this application with administrator rights!
+11:29:45  [main] 	XAMPP Installation Directory: "c:\users\kartik\desktop\blog project\"
+11:29:45  [main] 	WARNING: Your install directory contains spaces.  This may break programs/scripts
+11:29:45  [main] 	Checking for prerequisites
+11:29:49  [main] 	All prerequisites found
+11:29:49  [main] 	Initializing Modules
+11:29:49  [main] 	Starting Check-Timer
+11:29:49  [main] 	Control Panel Ready
+11:29:51  [Apache] 	Attempting to start Apache app...
+11:29:52  [Apache] 	Status change detected: running
+11:29:52  [mysql] 	Attempting to start MySQL app...
+11:29:53  [mysql] 	Status change detected: running
+11:40:16  [Apache] 	Attempting to stop Apache (PID: 5764)
+11:40:16  [Apache] 	Attempting to stop Apache (PID: 6316)
+11:40:16  [Apache] 	Status change detected: stopped
+11:40:16  [mysql] 	Attempting to stop MySQL app...
+11:40:16  [mysql] 	Status change detected: stopped
+11:41:02  [Apache] 	Status change detected: running
+11:41:03  [mysql] 	Status change detected: running
+11:44:33  [Apache] 	Status change detected: stopped
+11:44:33  [mysql] 	Status change detected: stopped
+12:14:40  [main] 	Deinitializing Modules
+12:14:40  [main] 	Deinitializing Control Panel
+
